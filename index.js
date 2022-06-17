@@ -4,7 +4,7 @@ const GoogleStrategy = require('passport-google-oauth20').strategy;
 
 const app = express();
 
-passport.use(new GoogleStrategy());
+passport.use(new GoogleStrategy({}));
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT);
