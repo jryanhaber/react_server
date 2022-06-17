@@ -1,6 +1,6 @@
 # server_2
 
-Purposes
+# Purposes
 
 - Generate a practice app which must be recalled from the text guidance prompts alone and recreated to test your ability to rapidly deploy new projects.
 - Allow for links for things not retained to be able to access the training from which this is based.
@@ -44,6 +44,8 @@ Initialize a New Express project
 Enable google auth for sign in
 
 set up passportjs.org
+npm install --save passport passport-google-oath20
+https://www.passportjs.org/packages/passport-google-oauth20/
 
 - create an account with google auth
 - create a sign up form
