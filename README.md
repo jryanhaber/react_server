@@ -43,6 +43,8 @@ Initialize a New Express project
 
 Enable google auth for sign in
 
+set up passportjs.org
+
 - create an account with google auth
 - create a sign up form
 - upon sign up trigger, send request to google
