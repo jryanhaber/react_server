@@ -5,6 +5,12 @@
 - Generate a practice app which must be recalled from the text guidance prompts alone and recreated to test your ability to rapidly deploy new projects.
 - Allow for links for things not retained to be able to access the training from which this is based.
 
+# Setup
+
+- Install the project, at the root dir
+  `npm install`
+- then `npm run dev`
+
 # requirements
 
 - brew
