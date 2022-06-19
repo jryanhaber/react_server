@@ -2,8 +2,19 @@
 
 # Purposes
 
-- Generate a practice app which must be recalled from the text guidance prompts alone and recreated to test your ability to rapidly deploy new projects.
-- Allow for links for things not retained to be able to access the training from which this is based.
+## Clone-able Template Project Kickstart
+
+- This will be a cloneable template to kick start an app with Node, Mongo, Express, React and Redux.
+- I will try to list of features you will get out of the box if you clone this to start your project.
+
+## MERN stack training App
+
+- This is also very commented in commits which can serve as a challenge for training yourself in the MERN stack. Each commit represents a specific technical step and the names indicate what is required to proceed. To use this as a test app, attempt to complete the steps independently, and if you cannot succeed, check the commits to see what the correct config was. Repeat until you can complete each step without referencing the solutions.
+  Generate a practice app which must be recalled from the text guidance prompts alone and recreated to test your ability to rapidly deploy new projects.
+
+## Demo project of current Code skills
+
+This app will be public facing, open sourced, MIT licensed, so it can serve as my own dev skillset
 
 # Setup
 
