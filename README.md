@@ -22,6 +22,12 @@ This app will be public facing, open sourced, MIT licensed, so it can serve as m
   `npm install`
 - then `npm run dev`
 
+# Google Auth Setup
+
+- Set up a new project at google dev console and name it
+  https://console.developers.google.com/
+- Add a local file named keys.js inside the config file ( will be gitIgnored ) and drop your unique google auth credentials in there.
+
 # requirements
 
 - brew
